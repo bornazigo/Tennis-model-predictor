@@ -9,8 +9,8 @@
 
  Python 3.10+
  Install dependencies: pip install pandas openpyxl
- You need these files: tennis_prediction.py (the Python script), elo_ranking.xlsx (EXCEL sheet with loaded data)
- These files need to be in the same folder.
+ You need these files: tennis_prediction.py (the Python script), elo_ranking.xlsx (EXCEL sheet with loaded data - these files need to be in the same folder)
+ 
 
  From then on you need to open and run the script, eneter the stuff needed like player names, surface and is the tournament with sets of 3 or sets of 5. 
 
